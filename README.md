@@ -1,35 +1,47 @@
-# Olá, eu sou Deise Alves Soares 👋
+# Olá, mundo! Eu sou a Deise 👋
 
-Sou desenvolvedora Backend e estudante de Engenharia de Software. Gosto de criar soluções com código claro e aprender continuamente, especialmente no desenvolvimento de APIs e aplicações web.
+### Engenheira de Software | Desenvolvimento Backend
+
+## Sobre mim 🚀
+
+🎓 Sou formada em Engenharia de Software.
+
+💻 Gosto de criar soluções simples, úteis e bem construídas — especialmente APIs e aplicações backend.
+
+✨ Acredito que tecnologia ganha sentido quando resolve problemas reais e melhora a vida das pessoas.
+
+## Minha experiência 🙌
+
+🏦 Já trabalhei no **Banco Itaú**, uma experiência importante na minha trajetória em tecnologia.
 
 ## Tecnologias
 
-- **Backend:** Java, Spring Boot
-- **Frontend:** Angular, TypeScript, JavaScript, HTML e CSS
-- **Dados:** MySQL
-- **Estudos:** Python
+**Backend:** Java · Spring Boot
+
+**Frontend:** Angular · TypeScript · JavaScript · HTML · CSS
+
+**Banco de dados:** MySQL
+
+**Também estudo:** Python
 
 ## Projetos em destaque
 
-### AdoPet — plataforma de adoção responsável
+🐾 **AdoPet** — uma plataforma para apoiar a adoção responsável de animais.
 
-Projeto integrador desenvolvido em equipe para apoiar ONGs na divulgação de animais disponíveis para adoção e no acompanhamento dos processos.
+[Frontend](https://github.com/DeiseAlves/pi_adocao_pet_front) · [Backend](https://github.com/DeiseAlves/pi_adocao_pet_back)
 
-- [Frontend — Angular](https://github.com/deisealves/pi_adocao_pet_front)
-- [Backend — Java e Spring](https://github.com/deisealves/pi_adocao_pet_back)
+🔗 **API de cadastro** — projeto com Java e Spring Boot.
 
-### API de cadastro — Spring Boot
+[Ver projeto](https://github.com/DeiseAlves/app-cadastro-serasa-digitalhouse)
 
-Projeto de estudo desenvolvido durante aulas de Spring Boot, com foco em uma API de cadastro.
+☕ **Estudos de Java** — exercícios e aprendizados ao longo da minha jornada.
 
-- [Ver repositório](https://github.com/deisealves/app-cadastro-serasa-digitalhouse)
+[Ver projeto](https://github.com/DeiseAlves/dio-java-basico)
 
-### Estudos de Java
+## Linguagens por aqui 📊
 
-Exercícios e conteúdos praticados durante o curso de Java.
+![Linguagens mais usadas por Deise](https://github-readme-stats.vercel.app/api/top-langs/?username=DeiseAlves&layout=compact&theme=transparent&hide_border=true)
 
-- [Ver repositório](https://github.com/deisealves/dio-java-basico)
+## Vamos nos conectar 💬
 
-## Vamos nos conectar
-
-[LinkedIn](https://www.linkedin.com/in/deise-alves-soares-928b801a0/) · [GitHub](https://github.com/deisealves)
+[LinkedIn](https://www.linkedin.com/in/deise-alves-soares-928b801a0/) · [GitHub](https://github.com/DeiseAlves)
