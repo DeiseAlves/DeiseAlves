@@ -1,35 +1,29 @@
-# Olá, eu sou Deise Alves Soares 👋
+# Deise Alves
 
-Sou desenvolvedora Backend e estudante de Engenharia de Software. Gosto de criar soluções com código claro e aprender continuamente, especialmente no desenvolvimento de APIs e aplicações web.
+### Engenharia de software com propósito.
 
-## Tecnologias
+Sou formada em Engenharia de Software e gosto de transformar desafios em soluções simples, úteis e bem construídas. Ao longo da minha trajetória, também tive a oportunidade de trabalhar no **Banco Itaú** — uma experiência que ampliou minha visão sobre tecnologia e seu impacto na vida das pessoas.
 
-- **Backend:** Java, Spring Boot
-- **Frontend:** Angular, TypeScript, JavaScript, HTML e CSS
-- **Dados:** MySQL
-- **Estudos:** Python
+Meu interesse está especialmente no desenvolvimento backend, na criação de APIs e em escrever código claro, pensado para durar.
 
-## Projetos em destaque
+**No meu repertório**
 
-### AdoPet — plataforma de adoção responsável
+Java · Spring Boot · Angular · TypeScript · JavaScript · MySQL · Python
 
-Projeto integrador desenvolvido em equipe para apoiar ONGs na divulgação de animais disponíveis para adoção e no acompanhamento dos processos.
+## Projetos
 
-- [Frontend — Angular](https://github.com/deisealves/pi_adocao_pet_front)
-- [Backend — Java e Spring](https://github.com/deisealves/pi_adocao_pet_back)
+**AdoPet** — uma plataforma para aproximar animais de pessoas e apoiar a adoção responsável.
 
-### API de cadastro — Spring Boot
+[Frontend](https://github.com/DeiseAlves/pi_adocao_pet_front) · [Backend](https://github.com/DeiseAlves/pi_adocao_pet_back)
 
-Projeto de estudo desenvolvido durante aulas de Spring Boot, com foco em uma API de cadastro.
+**API de cadastro** — projeto de estudos com Java e Spring Boot.
 
-- [Ver repositório](https://github.com/deisealves/app-cadastro-serasa-digitalhouse)
+[Ver projeto](https://github.com/DeiseAlves/app-cadastro-serasa-digitalhouse)
 
-### Estudos de Java
+**Estudos de Java** — exercícios e aprendizados reunidos ao longo da jornada.
 
-Exercícios e conteúdos praticados durante o curso de Java.
+[Ver projeto](https://github.com/DeiseAlves/dio-java-basico)
 
-- [Ver repositório](https://github.com/deisealves/dio-java-basico)
+## Vamos conversar
 
-## Vamos nos conectar
-
-[LinkedIn](https://www.linkedin.com/in/deise-alves-soares-928b801a0/) · [GitHub](https://github.com/deisealves)
+[LinkedIn](https://www.linkedin.com/in/deise-alves-soares-928b801a0/) · [GitHub](https://github.com/DeiseAlves)
