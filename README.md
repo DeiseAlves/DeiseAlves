@@ -1,29 +1,47 @@
-# Deise Alves
+# Olá, mundo! Eu sou a Deise 👋
 
-### Engenharia de software com propósito.
+### Engenheira de Software | Desenvolvimento Backend
 
-Sou formada em Engenharia de Software e gosto de transformar desafios em soluções simples, úteis e bem construídas. Ao longo da minha trajetória, também tive a oportunidade de trabalhar no **Banco Itaú** — uma experiência que ampliou minha visão sobre tecnologia e seu impacto na vida das pessoas.
+## Sobre mim 🚀
 
-Meu interesse está especialmente no desenvolvimento backend, na criação de APIs e em escrever código claro, pensado para durar.
+🎓 Sou formada em Engenharia de Software.
 
-**No meu repertório**
+💻 Gosto de criar soluções simples, úteis e bem construídas — especialmente APIs e aplicações backend.
 
-Java · Spring Boot · Angular · TypeScript · JavaScript · MySQL · Python
+✨ Acredito que tecnologia ganha sentido quando resolve problemas reais e melhora a vida das pessoas.
 
-## Projetos
+## Minha experiência 🙌
 
-**AdoPet** — uma plataforma para aproximar animais de pessoas e apoiar a adoção responsável.
+🏦 Já trabalhei no **Banco Itaú**, uma experiência importante na minha trajetória em tecnologia.
+
+## Tecnologias
+
+**Backend:** Java · Spring Boot
+
+**Frontend:** Angular · TypeScript · JavaScript · HTML · CSS
+
+**Banco de dados:** MySQL
+
+**Também estudo:** Python
+
+## Projetos em destaque
+
+🐾 **AdoPet** — uma plataforma para apoiar a adoção responsável de animais.
 
 [Frontend](https://github.com/DeiseAlves/pi_adocao_pet_front) · [Backend](https://github.com/DeiseAlves/pi_adocao_pet_back)
 
-**API de cadastro** — projeto de estudos com Java e Spring Boot.
+🔗 **API de cadastro** — projeto com Java e Spring Boot.
 
 [Ver projeto](https://github.com/DeiseAlves/app-cadastro-serasa-digitalhouse)
 
-**Estudos de Java** — exercícios e aprendizados reunidos ao longo da jornada.
+☕ **Estudos de Java** — exercícios e aprendizados ao longo da minha jornada.
 
 [Ver projeto](https://github.com/DeiseAlves/dio-java-basico)
 
-## Vamos conversar
+## Linguagens por aqui 📊
+
+![Linguagens mais usadas por Deise](https://github-readme-stats.vercel.app/api/top-langs/?username=DeiseAlves&layout=compact&theme=transparent&hide_border=true)
+
+## Vamos nos conectar 💬
 
 [LinkedIn](https://www.linkedin.com/in/deise-alves-soares-928b801a0/) · [GitHub](https://github.com/DeiseAlves)
