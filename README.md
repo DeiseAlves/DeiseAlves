@@ -40,8 +40,8 @@
 
 ## Linguagens por aqui 📊
 
-![Linguagens mais usadas por Deise](https://github-readme-stats.vercel.app/api/top-langs/?username=DeiseAlves&layout=compact&theme=transparent&hide_border=true)
+![Linguagens mais usadas por Deise](https://github-readme-stats.vercel.app/api/top-langs?username=DeiseAlves&layout=compact&langs_count=8&theme=default&hide_border=true)
 
 ## Vamos nos conectar 💬
 
-[LinkedIn](https://www.linkedin.com/in/deise-alves-soares?utm_source=share_via&utm_content=profile&utm_medium=member_android) · [GitHub](https://github.com/DeiseAlves)
+[LinkedIn](https://www.linkedin.com/in/deise-alves-soares?utm_source=share_via&utm_content=profile&utm_medium=member_android) · [GitHub](https://github.com/DeiseAlves) · [E-mail](mailto:alvessoaresdeyse@gmail.com)
