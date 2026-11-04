@@ -44,4 +44,4 @@
 
 ## Vamos nos conectar 💬
 
-[LinkedIn](https://www.linkedin.com/in/deise-alves-soares-928b801a0/) · [GitHub](https://github.com/DeiseAlves)
+[LinkedIn](https://www.linkedin.com/in/deise-alves-soares-928b801a0/) · [GitHub](https://github.com/DeiseAlves) · [E-mail](mailto:alvessoaresdeyse@gmail.com)
