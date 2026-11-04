@@ -40,7 +40,7 @@
 
 ## Linguagens por aqui 📊
 
-![Linguagens mais usadas por Deise](https://github-readme-stats.vercel.app/api/top-langs/?username=DeiseAlves&layout=compact&theme=transparent&hide_border=true)
+![Linguagens mais usadas por Deise](https://github-readme-stats.vercel.app/api/top-langs?username=DeiseAlves&layout=compact&langs_count=8&theme=default&hide_border=true)
 
 ## Vamos nos conectar 💬
 
